@@ -25,7 +25,7 @@ I have worked in **Agile/Scrum environments**, participated in all key ceremonie
 
 My professional background also includes deep technical experience as a **Systems Engineer in the nuclear energy sector**, where I worked on **mission-critical software and hardware systems**.
 
-I’m **ISTQB**, **Microsoft Azure** and **Oracle Database** certified, and always eager to learn new tools and explore better ways to ensure quality in software delivery.
+I’m **ISTQB**, **Microsoft Azure** and **Oracle OCP** certified, and always eager to learn new tools and explore better ways to ensure quality in software delivery.
 
 ---
 
