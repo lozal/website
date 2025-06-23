@@ -34,7 +34,7 @@ I’m **ISTQB**, **Microsoft Azure** and **Oracle Database** certified, and alwa
 - **ISTQB Certified Tester Foundation Level (CTFL)** 
 - **Microsoft Certified: Azure Fundamentals**
 - **Oracle Database 12c Administrator Certified Professional**
-![Alt text](/img/certs.jpg)
+![Certificates](/img/certs.jpg)
 ---
 
 ## 📬 Contact {#contact}
